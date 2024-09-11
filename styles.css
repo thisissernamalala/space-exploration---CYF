@@ -1,0 +1,42 @@
+body{
+    color: #3c4358;
+    font-family: "Orbitron", sans-serif;
+    margin:0;
+}
+.hero{
+    background-image: url("./images/unii.webp");
+    background-size: cover;
+    padding: 20px 0;
+    
+}
+h1{
+    text-shadow: 2px 2px white;
+}
+.app{
+    text-align: center;
+}
+
+.btn{
+    padding: 7px;
+    font-size: 20px;
+    background-color: #3c4358;
+    border: none;
+    border-radius: 4px;
+    font-family: inherit;
+    cursor: pointer;
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: #3c4358;
+    border: 2px solid #3c4358;
+}
+span{
+    border-bottom: 4px solid white;
+}
+.logo{
+    width: 150px;
+}
+.tc{
+    text-shadow : 1px 1px rgb(0, 0, 0);
+}
